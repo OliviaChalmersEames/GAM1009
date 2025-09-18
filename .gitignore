@@ -77,3 +77,6 @@ DerivedDataCache/*
 Source/*
 
 
+/MyFlyingShmup/DerivedDataCache
+/MyFlyingShmup/Intermediate
+/MyFlyingShmup/Saved
